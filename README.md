@@ -1,4 +1,4 @@
-git clone https://github.com/timowa/laravel-crud-test.git
-composer update
-npm imstall
-npm run dev
+1. git clone https://github.com/timowa/laravel-crud-test.git
+2. composer update
+3. npm imstall
+4. npm run dev
